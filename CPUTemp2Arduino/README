@@ -1,0 +1,4 @@
+1. Make sure OpenHardwareMonitor is running in the background (you can minimize it to the system tray)
+2. Get the Port number from the Arduino IDE (Tools > Port). Write this port number (and only the port number) in the file "INSERT_ARDIUNO_PORT_HERE.txt". Mine was on "COM4".
+3. Make sure the Arduino Uno is on and the display states "Waiting for Time Sync..."
+4. Run the executable "CPUTemp2Arduino.exe"
